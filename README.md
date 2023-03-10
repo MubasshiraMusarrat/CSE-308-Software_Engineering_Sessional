@@ -11,7 +11,7 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 # Online-1
 1. **A1**
 * [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308/blob/main/Creational%20Pattern/Online-1/online_a1/CSE%20308_%20Online1%20-%20A1.pdf)
-* Solution : ***Factory***
+* Solution : ***Factory***__
 Not abstract factory,because the objects are independent. Hence, used two independent factory classes.
 
 3. **B1**
