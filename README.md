@@ -9,6 +9,11 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 ![problem-2](https://user-images.githubusercontent.com/87219536/223746079-c42ee437-4458-4732-9877-6fba17e679b7.jpg)
 
 # Online-1
+1. **A1**
+* [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308/blob/main/Creational%20Pattern/Online-1/online_a1/CSE%20308_%20Online1%20-%20A1.pdf)
+* Solution : ***Factory***
+Not abstract factory,because the objects are independent. Hence, used two independent factory classes.
+
 3. **B1**
 * [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308/blob/main/Creational%20Pattern/Online-1/online%20B1/CSE%20308%20Online1(B1).pdf)
 * Solution : ***Builder***
