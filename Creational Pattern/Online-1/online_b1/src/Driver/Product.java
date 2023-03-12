@@ -56,7 +56,7 @@ public class Product {
                 System.out.println("1 cookie");
             else
                 System.out.println(cookie+" x cookies");
-            System.out.println("Extra 40 taka for each candy");
+            System.out.println("Extra 40 taka for each cookie");
             System.out.println("Added "+(cookie*40)+" taka");
         }
         System.out.println("Total price: "+totalCost+" taka");
