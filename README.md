@@ -4,7 +4,7 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 # Offline-1
 * [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308/blob/main/Creational%20Pattern/Offline-1/Assingment%201.pdf)
 * Solution : 
-1. Problem 1:
+1. Problem 1: ***Builder***
 2. Problem 2: ***Factory***
 ![problem-2](https://user-images.githubusercontent.com/87219536/223746079-c42ee437-4458-4732-9877-6fba17e679b7.jpg)
 
