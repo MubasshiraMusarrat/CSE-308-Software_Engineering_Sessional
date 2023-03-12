@@ -30,3 +30,7 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 * Solution :
 1. Problem 1: ***Observer***
 ![problem-1](https://user-images.githubusercontent.com/87219536/224554813-28aa67b6-4ede-42a3-80dd-94cacdd12d0c.jpg)
+
+2. Problem 2: ***Mediator***
+![problem-2](https://user-images.githubusercontent.com/87219536/224555474-51021a86-e15b-425d-9eb1-a4e8f47c598f.jpg)
+
