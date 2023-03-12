@@ -5,6 +5,8 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 * [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308/blob/main/Creational%20Pattern/Offline-1/Assingment%201.pdf)
 * Solution : 
 1. Problem 1: ***Builder***
+![problem-1](https://user-images.githubusercontent.com/87219536/224553438-e2bf45f7-5afc-4cc3-8d12-f060beca862f.jpg)
+
 2. Problem 2: ***Factory***
 ![problem-2](https://user-images.githubusercontent.com/87219536/223746079-c42ee437-4458-4732-9877-6fba17e679b7.jpg)
 
