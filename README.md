@@ -29,3 +29,4 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 
 * Solution :
 1. Problem 1: ***Observer***
+![problem-1](https://user-images.githubusercontent.com/87219536/224554813-28aa67b6-4ede-42a3-80dd-94cacdd12d0c.jpg)
