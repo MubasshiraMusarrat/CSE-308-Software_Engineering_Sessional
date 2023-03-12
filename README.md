@@ -3,6 +3,7 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 
 # Offline-1
 * [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308/blob/main/Creational%20Pattern/Offline-1/Assingment%201.pdf)
+
 * Solution : 
 1. Problem 1: ***Builder***
 ![problem-1](https://user-images.githubusercontent.com/87219536/224553438-e2bf45f7-5afc-4cc3-8d12-f060beca862f.jpg)
@@ -21,3 +22,10 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 * [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308/blob/main/Creational%20Pattern/Online-1/online%20B1/CSE%20308%20Online1(B1).pdf)
 * Solution : ***Builder***
 ![online B1](https://user-images.githubusercontent.com/87219536/223748153-4b2c3229-2f30-476b-bada-82c2c9318362.jpg)
+
+
+# Offline-2
+* [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308/blob/main/Behavioural%20Pattern/Offline-2/Offline2.pdf)
+
+* Solution :
+1. Problem 1: ***Observer***
