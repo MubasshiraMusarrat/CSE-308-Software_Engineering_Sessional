@@ -41,4 +41,5 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 ![problem-2](https://user-images.githubusercontent.com/87219536/224555474-51021a86-e15b-425d-9eb1-a4e8f47c598f.jpg)
 
 3. Problem 3: ***State***
+![3](https://github.com/MubasshiraMusarrat/CSE-308/assets/87219536/fe83ab38-f83b-4986-9403-f5da4854a9a4)
 
