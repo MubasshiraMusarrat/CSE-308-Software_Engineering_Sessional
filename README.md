@@ -30,6 +30,11 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 ![online B1](https://user-images.githubusercontent.com/87219536/223748153-4b2c3229-2f30-476b-bada-82c2c9318362.jpg)
 
 
+4. **B2**
+* [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308/blob/main/Creational%20Pattern/Online-1/online_b2/Online1-B2.pdf)
+* Solution : ***Builder***
+
+
 # Offline-2
 * [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308/blob/main/Behavioural%20Pattern/Offline-2/Offline2.pdf)
 
