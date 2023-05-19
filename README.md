@@ -48,3 +48,9 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 3. Problem 3: ***State***
 ![3](https://github.com/MubasshiraMusarrat/CSE-308/assets/87219536/fe83ab38-f83b-4986-9403-f5da4854a9a4)
 
+
+
+# Online-2
+3. **B1**
+* [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308/blob/main/Behavioural%20Pattern/Online-2/online%20b1/online%20b1.pdf)
+* Solution : ***Observer***
