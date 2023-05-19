@@ -55,3 +55,4 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 3. **B1**
 * [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308/blob/main/Behavioural%20Pattern/Online-2/online_b1/online%20b1.pdf)
 * Solution : ***Observer***
+![b1](https://github.com/MubasshiraMusarrat/CSE-308/assets/87219536/36dbac4c-6e56-4913-94e5-4c2779ca5966)
