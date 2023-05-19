@@ -33,6 +33,7 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 4. **B2**
 * [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308/blob/main/Creational%20Pattern/Online-1/online_b2/Online1-B2.pdf)
 * Solution : ***Builder***
+![b2](https://github.com/MubasshiraMusarrat/CSE-308/assets/87219536/851d39ea-b4c9-4922-b491-3e3e9b901a01)
 
 
 # Offline-2
