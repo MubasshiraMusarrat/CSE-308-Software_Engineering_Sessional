@@ -62,3 +62,4 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 * [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308/blob/main/Structural%20Pattern/Offline-3/Offline%203%20Spec.pdf)
 * Solution :
 1. Problem 1: ***Adapter*** [Followed the pattern in 'Alexander Shvets - Dive Into Design Patterns (2019)']
+![1](https://github.com/MubasshiraMusarrat/CSE-308/assets/87219536/34143ac4-dc60-4d65-b9f9-854051322973)
