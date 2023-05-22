@@ -65,3 +65,4 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 ![1](https://github.com/MubasshiraMusarrat/CSE-308/assets/87219536/34143ac4-dc60-4d65-b9f9-854051322973)
 
 2. Problem 2: ***Decorator***
+![2](https://github.com/MubasshiraMusarrat/CSE-308/assets/87219536/4f42522e-e8f4-4b19-ae66-46f83b7504fd)
