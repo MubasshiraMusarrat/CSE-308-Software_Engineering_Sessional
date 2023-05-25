@@ -68,3 +68,4 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 ![2](https://github.com/MubasshiraMusarrat/CSE-308/assets/87219536/4f42522e-e8f4-4b19-ae66-46f83b7504fd)
 
 3. Problem 3: ***Composite***
+![3](https://github.com/MubasshiraMusarrat/CSE-308/assets/87219536/56bf2248-92f3-4c2a-a008-aa6d349e9b8c)
