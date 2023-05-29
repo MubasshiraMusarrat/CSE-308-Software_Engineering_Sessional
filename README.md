@@ -69,3 +69,10 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 
 3. Problem 3: ***Composite***
 ![3](https://github.com/MubasshiraMusarrat/CSE-308/assets/87219536/56bf2248-92f3-4c2a-a008-aa6d349e9b8c)
+
+
+
+# Online-3
+1. **A1**
+* [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308/blob/main/Structural%20Pattern/Online-3/online_a1/CSE308%20(July%202022)%2C%20Online-3%2C%20A1.pdf)
+* Solution : ***Decorator***
