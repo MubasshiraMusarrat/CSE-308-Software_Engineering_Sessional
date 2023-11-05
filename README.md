@@ -94,3 +94,8 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 * [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308-Software_Engineering_Sessional/blob/main/Structural%20Pattern/Online-3/online_b1/CSE308%20(July%202022)%2C%20Online-3%2C%20B1.pdf)
 * Solution : ***Adapter*** [Followed the pattern taught in the class]
 ![src](https://github.com/MubasshiraMusarrat/CSE-308-Software_Engineering_Sessional/assets/87219536/8d7b99db-8417-4d79-9cf9-6d0fa2de643d)
+
+
+4. **B2**
+* [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308-Software_Engineering_Sessional/blob/main/Structural%20Pattern/Online-3/online%20b2/spec.jpg)
+* Solution : ***Bridge*** 
