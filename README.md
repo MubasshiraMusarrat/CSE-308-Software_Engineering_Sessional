@@ -80,3 +80,6 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 * [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308/blob/main/Structural%20Pattern/Online-3/online_a1/CSE308%20(July%202022)%2C%20Online-3%2C%20A1.pdf)
 * Solution : ***Decorator***
 ![a1](https://github.com/MubasshiraMusarrat/CSE-308/assets/87219536/090dc7dc-a005-4015-a1a8-fed2aac95039)
+2. **A2**
+* [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308-Software_Engineering_Sessional/blob/main/Structural%20Pattern/Online-3/online%20a2/CSE308%20(July%202022)%2C%20Online-3%2C%20A2.pdf)
+* Solution : ***Adapter*** [Followed the pattern in 'Alexander Shvets - Dive Into Design Patterns (2019)']
