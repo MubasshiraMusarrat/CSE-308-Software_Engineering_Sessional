@@ -55,6 +55,8 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 1. **A1**
 * [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308-Software_Engineering_Sessional/blob/main/Behavioural%20Pattern/Online-2/online%20a1.pdf)
 * Solution : ***State***
+
+  
 2. **B1**
 * [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308/blob/main/Behavioural%20Pattern/Online-2/online_b1/online%20b1.pdf)
 * Solution : ***Observer***
@@ -80,10 +82,15 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 * [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308/blob/main/Structural%20Pattern/Online-3/online_a1/CSE308%20(July%202022)%2C%20Online-3%2C%20A1.pdf)
 * Solution : ***Decorator***
 ![a1](https://github.com/MubasshiraMusarrat/CSE-308/assets/87219536/090dc7dc-a005-4015-a1a8-fed2aac95039)
+
+
 2. **A2**
 * [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308-Software_Engineering_Sessional/blob/main/Structural%20Pattern/Online-3/online%20a2/CSE308%20(July%202022)%2C%20Online-3%2C%20A2.pdf)
 * Solution : ***Adapter*** [Followed the pattern in 'Alexander Shvets - Dive Into Design Patterns (2019)']
 ![src](https://github.com/MubasshiraMusarrat/CSE-308-Software_Engineering_Sessional/assets/87219536/a5da8845-fd76-4574-90ef-4d1a23d55c63)
+
+
 3. **B1**
 * [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308-Software_Engineering_Sessional/blob/main/Structural%20Pattern/Online-3/online_b1/CSE308%20(July%202022)%2C%20Online-3%2C%20B1.pdf)
 * Solution : ***Adapter*** [Followed the pattern taught in the class]
+![src](https://github.com/MubasshiraMusarrat/CSE-308-Software_Engineering_Sessional/assets/87219536/8d7b99db-8417-4d79-9cf9-6d0fa2de643d)
