@@ -98,4 +98,5 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 
 4. **B2**
 * [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308-Software_Engineering_Sessional/blob/main/Structural%20Pattern/Online-3/online%20b2/spec.jpg)
-* Solution : ***Bridge*** 
+* Solution : ***Bridge***
+  ![src](https://github.com/MubasshiraMusarrat/CSE-308-Software_Engineering_Sessional/assets/87219536/bc4a9ac3-72a6-4dd8-9708-68d70f0ba1ff)
