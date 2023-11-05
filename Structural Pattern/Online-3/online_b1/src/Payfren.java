@@ -1,33 +1,76 @@
-public class Payfren {
-    private String SSN;
+public class Payfren implements DWS {
+    private int SSN;
     private double balance;
 
-    public Payfren(String SSN, double balance){
+    public Payfren(int SSN, double balance) {
         this.SSN = SSN;
-        this. balance = balance;
+        this.balance = balance;
     }
-
-    public String getSSN(){
+    @Override
+    public String name(){
+        return "PayFren";
+    }
+    @Override
+    public int getID() {
         return SSN;
     }
 
+    @Override
     public void deposit(double money) {
         balance += money;
     }
 
+    @Override
     public double getCurrentBalance() {
         return balance;
     }
 
-    public double sendMoney(String SSN2, double money) {
-        System.out.println(SSN+": Sending "+money+" dollar to payfren account "+SSN2);
-        System.out.println("Current balance: "+balance+" dollar");
-        return money;
+    @Override
+    public void sendMoney(DWS dws, double money) {
+        String id;
+        if(dws.name().equalsIgnoreCase("akash")){
+            id = "NID";
+        }
+        else if(dws.name().equalsIgnoreCase("D-Harai")){
+            id = "KB";
+        }
+        else{
+            id = "SSN";
+        }
+        if(balance<money){
+            System.out.println("SSN"+SSN+": Insufficient balance to send "+money+" dollars to "+dws.name()+" account ( "+id+dws.getID()+")");
+        }
+        else {
+            balance -= money;
+            System.out.print("SSN" + SSN + ": Sending " + money + " dollars to " + dws.name() + " account ( " + id + dws.getID() + ")");
+            System.out.println("...Current balance " + balance + " dollars...");
+        }
     }
 
-    public void receiveMoney(String SSN2, double Money) {
-        System.out.println(SSN2+" Received "+Money+" dollar from payfren account "+SSN2);
-        System.out.println("Current balance: "+balance+" dollar");
-        balance += Money;
+    @Override
+    public void receiveMoney(DWS dws, double money) {
+        String currency;
+        String id;
+        double bl;
+        if(dws.name().equalsIgnoreCase("akash")){
+            currency = " taka";
+            id = "NID";
+            bl = money * 0.01;
+
+        }
+        else if(dws.name().equalsIgnoreCase("D-Harai")){
+            currency = " yen";
+            id = "KB";
+            bl = money * 0.005;
+        }
+        else{
+            currency = " dollars";
+            id = "SSN";
+            bl = money;
+        }
+        balance += bl;
+        System.out.print("SSN"+SSN+": Received " +money+currency+" from "+dws.name()+" account ("+id+dws.getID()+")");
+        System.out.println("! Current balance "+balance+" dollars...");
     }
+
 }
