@@ -83,3 +83,5 @@ There were a total of 3 onlines, followed by each subsequent offlines, showing t
 2. **A2**
 * [Problem Specification](https://github.com/MubasshiraMusarrat/CSE-308-Software_Engineering_Sessional/blob/main/Structural%20Pattern/Online-3/online%20a2/CSE308%20(July%202022)%2C%20Online-3%2C%20A2.pdf)
 * Solution : ***Adapter*** [Followed the pattern in 'Alexander Shvets - Dive Into Design Patterns (2019)']
+![src](https://github.com/MubasshiraMusarrat/CSE-308-Software_Engineering_Sessional/assets/87219536/a5da8845-fd76-4574-90ef-4d1a23d55c63)
+
